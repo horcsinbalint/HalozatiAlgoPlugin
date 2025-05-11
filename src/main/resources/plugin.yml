@@ -1,0 +1,8 @@
+name: HalozatiAlgoPlugin
+version: '1.0-SNAPSHOT'
+main: hu.horcsin.halozatiAlgoPlugin.HalozatiAlgoPlugin
+api-version: '1.21'
+commands:
+  set1: {}
+  set2: {}
+  test: {}
